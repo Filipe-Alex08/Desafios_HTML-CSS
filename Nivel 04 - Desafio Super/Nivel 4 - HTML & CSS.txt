@@ -1,0 +1,168 @@
+1) Desafios de Layout:
+
+	1. Desafio de Layout 3D com Transformações Complexas:
+		1.1 Crie um layout 3D usando transformações CSS complexas, como rotação, escala e inclinação, para criar uma apresentação visualmente impressionante e dinâmica.
+
+	2. Desafio de Layout com Animações de Partículas:
+		2.1 Crie um layout com animações de partículas usando CSS e JavaScript avançado, onde as partículas se movem de forma fluida e interativa em resposta à interação do usuário.
+
+	3. Desafio de Layout com Manipulação de Imagens em Tempo Real:
+		3.1 Desenvolva um layout que permita ao usuário manipular imagens em tempo real usando filtros CSS avançados e manipulação de pixels por meio de JavaScript, proporcionando uma experiência interativa e envolvente.
+
+	4. Desafio de Layout com Integração de Realidade Aumentada:
+		4.1 Crie um layout que integre elementos de realidade aumentada usando tecnologias como WebXR e WebGL, permitindo aos usuários interagir com objetos virtuais em um ambiente 3D dentro do navegador.
+
+	5. Desafio de Layout com Animations-driven Scroll:
+		5.1 Desenvolva um layout onde a rolagem da página é conduzida por animações CSS, proporcionando uma experiência de navegação suave e cinematográfica.
+
+
+___________________________________________________________________________________________________________________________
+2) Desafios de Flexbox:
+
+	1. Desafio de Layout de Mosaico Flexível com Ordenação Dinâmica:
+		1.1 Crie um layout de mosaico flexível que reorganize dinamicamente os itens com base nas preferências do usuário, usando técnicas avançadas de ordenação e flexibilidade em Flexbox.
+
+	2. Desafio de Layout Circular com Flexbox:
+		2.1 Desenvolva um layout circular usando Flexbox, onde os itens são dispostos ao longo de um caminho circular e se ajustam dinamicamente ao redor do centro, proporcionando uma apresentação visualmente única e dinâmica.
+
+	3. Desafio de Galeria de Fotos 3D com Flexbox:
+		3.1 Crie uma galeria de fotos 3D usando Flexbox e transformações CSS avançadas, onde as imagens são dispostas em um layout tridimensional e podem ser exploradas de diferentes ângulos pelo usuário.
+
+	4. Desafio de Layout com Distribuição de Conteúdo Multidimensional:
+		4.1 Desenvolva um layout com Flexbox que distribua o conteúdo em múltiplas dimensões, permitindo uma disposição flexível e dinâmica de elementos em uma grade tridimensional.
+
+	5. Desafio de Layout de Interface de Usuário Complexa com Flexbox:
+		5.1 Crie uma interface de usuário complexa e altamente interativa usando Flexbox, onde os elementos se adaptam dinamicamente às ações do usuário e proporcionam uma experiência de navegação rica e envolvente.
+
+
+___________________________________________________________________________________________________________________________
+3) Desafios de Grid:
+
+	1.Desafio de Layout de Mapa Interativo com Grid Layout:
+		1.1 Desenvolva um layout de mapa interativo usando Grid Layout, onde os elementos se organizam em uma grade responsiva e dinâmica, permitindo a visualização e interação com diferentes áreas geográficas.
+
+	2. Desafio de Layout de Dashboard Personalizável com Grid Layout:
+		2.1 Crie um layout de dashboard altamente personalizável usando Grid Layout, onde os usuários podem reorganizar e personalizar os elementos da interface de acordo com suas preferências e necessidades específicas.
+
+	3. Desafio de Layout de Calendário Dinâmico com Grid Layout:
+		3.1 Desenvolva um layout de calendário dinâmico usando Grid Layout, onde os eventos são organizados e exibidos de forma responsiva e interativa, permitindo aos usuários explorar e gerenciar suas agendas de forma eficiente.
+
+	4. Desafio de Layout de Editor de Layouts com Grid Layout:
+		4.1 Crie um editor de layouts avançado usando Grid Layout, onde os usuários podem criar e personalizar layouts complexos de forma intuitiva e eficiente, utilizando ferramentas avançadas de arrastar e soltar e manipulação de grade.
+
+	5. Desafio de Layout de Tabela de Dados Dinâmica com Grid Layout:
+		5.1 Desenvolva uma tabela de dados dinâmica usando Grid Layout, onde os dados são organizados e apresentados de forma eficiente e responsiva, permitindo aos usuários explorar e analisar grandes conjuntos de dados com facilidade.
+
+
+___________________________________________________________________________________________________________________________
+4) Desafios de Responsividade:
+
+	1. Desafio de Layout de Site Adaptável com Unidades Relativas:
+		1.1 Crie um layout de site totalmente responsivo usando unidades relativas, como porcentagens e unidades em, para garantir que todos os elementos se ajustem dinamicamente ao tamanho da tela em dispositivos de diferentes tamanhos e proporções.
+
+	2. Desafio de Tabela Responsiva com Scroll Horizontal:
+		2.1 Desenvolva uma tabela responsiva com scroll horizontal usando media queries, permitindo que os usuários visualizem e interajam com grandes conjuntos de dados em dispositivos móveis e tablets sem sacrificar a usabilidade.
+
+	3. Desafio de Layout de E-mail Responsivo com HTML e CSS:
+		3.1 Crie um layout de e-mail responsivo usando HTML e CSS, garantindo que o conteúdo do e-mail seja exibido de forma legível e esteticamente agradável em uma variedade de clientes de e-mail e dispositivos.
+
+	4. Desafio de Navegação Oculta para Telas Pequenas:
+		4.1 Implemente uma navegação oculta para telas pequenas usando media queries e técnicas de transição CSS, proporcionando aos usuários uma experiência de navegação simplificada e intuitiva em dispositivos móveis e tablets.
+
+	5. Desafio de Layout de Formulário Adaptável:
+		5.1 Crie um layout de formulário adaptável usando media queries, onde os campos e elementos do formulário se ajustam dinamicamente ao tamanho da tela, garantindo uma experiência de preenchimento de formulário consistente em dispositivos de diferentes tamanhos.
+
+
+___________________________________________________________________________________________________________________________
+5) Desafios de Animations e Transitions:
+
+	1. Desafio de Animação de Abertura de Página:
+		1.1 Desenvolva uma animação de abertura de página usando CSS e JavaScript, onde os elementos do layout são revelados de forma progressiva e dinâmica para criar uma introdução visualmente impactante ao site.
+
+	2. Desafio de Transição de Mudança de Cor Suave:
+		2.1 Implemente uma transição de mudança de cor suave em elementos selecionados usando CSS, proporcionando aos usuários uma experiência de navegação visualmente agradável e coesa.
+
+	3. Desafio de Animação de Carregamento Personalizada:
+		3.1 Crie uma animação de carregamento personalizada usando CSS e JavaScript, onde elementos visuais exclusivos são exibidos durante o carregamento do conteúdo para entreter os usuários e melhorar a experiência de espera.
+
+	4. Desafio de Animação de Rotação 3D:
+		Desenvolva uma animação de rotação 3D usando transformações CSS avançadas, onde elementos do layout giram de forma fluida e dinâmica para criar efeitos visuais cativantes e interativos.
+
+	Desafio de Efeito de Parallax de Camadas Múltiplas:
+		Crie um efeito de parallax de camadas múltiplas usando CSS e JavaScript, onde elementos do layout se movem em velocidades diferentes durante a rolagem da página para criar uma sensação de profundidade e imersão.
+
+
+___________________________________________________________________________________________________________________________
+6) Desafios de Pseudo-classes e Pseudo-elements:
+
+	Desafio de Estilização de Link Visitado Personalizado:
+		Estilize os links visitados com uma aparência personalizada usando a pseudo-classe :visited, proporcionando aos usuários um feedback visual claro sobre os links já acessados.
+
+	Desafio de Efeito de Hover Complexo com Pseudo-elements:
+		Implemente um efeito de hover complexo usando pseudo-elements como ::before e ::after, adicionando camadas adicionais de estilo e interatividade aos elementos do layout.
+
+	Desafio de Estilização de Botão de Ação com Pseudo-classes:
+		Estilize os botões de ação com diferentes estados, como hover e foco, usando pseudo-classes como :hover e :focus, proporcionando aos usuários uma experiência de interação visualmente agradável e intuitiva.
+
+	Desafio de Estilização de Elemento Selecionado com Pseudo-classes:
+		Estilize os elementos selecionados em formulários ou listas com uma aparência personalizada usando a pseudo-classe :checked, garantindo que os usuários possam identificar claramente suas seleções.
+
+	Desafio de Estilização de Primeira Letra com Pseudo-element:
+		Estilize a primeira letra de um bloco de texto usando o pseudo-element ::first-letter, adicionando efeitos visuais decorativos ou estilísticos para destacar a introdução de parágrafos ou títulos.
+
+
+___________________________________________________________________________________________________________________________
+7) Desafios de Forms Media Queries:
+
+	Desafio de Layout de Formulário Multi-colunas com Media Queries:
+		Crie um layout de formulário multi-colunas usando media queries, onde os campos do formulário são dispostos em múltiplas colunas para otimizar o espaço e melhorar a usabilidade em dispositivos de diferentes tamanhos.
+
+	Desafio de Estilização de Botão de Envio com Media Queries:
+		Estilize o botão de envio de formulário com diferentes estilos e tamanhos usando media queries, proporcionando aos usuários uma experiência de interação visualmente agradável e intuitiva em dispositivos de diferentes tamanhos.
+
+	Desafio de Layout de Campo de Busca com Media Queries:
+		Desenvolva um layout de campo de busca responsivo usando media queries, onde o campo de busca se ajusta dinamicamente ao tamanho da tela e oferece uma experiência de pesquisa consistente em dispositivos móveis e desktops.
+
+	Desafio de Estilização de Checkbox e Radio Button com Media Queries:
+		Estilize os checkboxes e radio buttons com diferentes estilos e tamanhos usando media queries, garantindo que esses elementos de formulário sejam visualmente distintos e fáceis de usar em dispositivos de diferentes tamanhos.
+
+	Desafio de Layout de Formulário Personalizado com Media Queries:
+		Crie um layout de formulário altamente personalizado e responsivo usando media queries, onde os elementos do formulário são estilizados de forma única e adaptável para oferecer uma experiência de preenchimento de formulário intuitiva e eficiente.
+
+
+___________________________________________________________________________________________________________________________
+8) Desafios de Cores e Estilos:
+
+	Desafio de Esquema de Cores Personalizado com Variáveis CSS:
+		Crie um esquema de cores personalizado para o site usando variáveis CSS, permitindo que os desenvolvedores e designers personalizem facilmente a aparência do site alterando algumas variáveis principais.
+
+	Desafio de Gradiente de Fundo Animado com CSS:
+		Implemente um gradiente de fundo animado usando CSS, onde as cores do gradiente mudam suavemente ao longo do tempo para criar um efeito visual dinâmico e cativante.
+
+	Desafio de Efeito de Sombra de Texto com CSS:
+		Adicione um efeito de sombra de texto personalizado a elementos de texto usando propriedades CSS avançadas, proporcionando uma aparência visualmente distinta e estilizada.
+
+	Desafio de Layout de Página com Efeito de Paralaxe:
+		Desenvolva um layout de página com efeito de paralaxe usando CSS e JavaScript, onde elementos do fundo se movem em velocidades diferentes durante a rolagem da página para criar uma sensação de profundidade e imersão.
+
+	Desafio de Layout de Página com Fundo Animado:
+		Crie um layout de página com fundo animado usando CSS e SVG, onde elementos gráficos ou padrões se movem ou mudam de forma suave e gradual para adicionar dinamismo visual ao site.
+
+
+___________________________________________________________________________________________________________________________
+9) Desafios de Layout Responsivo:
+
+	Desafio de Layout de Site Adaptável com Grade Fluida:
+		Desenvolva um layout de site adaptável usando uma grade fluida e media queries, garantindo que o conteúdo do site se ajuste dinamicamente ao tamanho da tela em dispositivos de diferentes tamanhos e proporções.
+
+	Desafio de Layout de Site Responsivo com Imagens Fluidas:
+		Crie um layout de site responsivo usando imagens fluidas e media queries, garantindo que as imagens se redimensionem dinamicamente para se adaptar ao tamanho da tela e manter a proporção correta em dispositivos de diferentes resoluções.
+
+	Desafio de Layout de Site Responsivo com Tipografia Adaptável:
+		Desenvolva um layout de site responsivo com tipografia adaptável usando media queries e unidades de medida relativas, garantindo que o tamanho e o estilo do texto se ajustem dinamicamente ao tamanho da tela em dispositivos de diferentes tamanhos.
+
+	Desafio de Layout de Site Responsivo com Menu de Navegação Adaptável:
+		Crie um layout de site responsivo com um menu de navegação adaptável usando media queries e técnicas de ocultação e exibição condicional, garantindo que o menu se ajuste de forma adequada e intuitiva em dispositivos de diferentes tamanhos.
+
+	Desafio de Layout de Site Responsivo com Barra Lateral Alternável:
+		Desenvolva um layout de site responsivo com uma barra lateral alternável usando media queries e JavaScript, onde os usuários podem alternar entre a exibição e a ocultação da barra lateral para personalizar sua experiência de navegação em dispositivos móveis e desktops.

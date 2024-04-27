@@ -98,43 +98,15 @@
 
 <h2 align="center">Assuntos dos desafios</h2>
 
-<details><summary>1 - Ausência de controle das informações da entidade</summary>
-    <p>
-        <table>
-            <tbody>
-                <tr>
-                    <th style="width: 25%;">
-                        Problema
-                    </th>
-                    <td>
-                        Ausência de controle das informações da entidade 
-                    </td>
-                </tr>
-                <tr>
-                    <th style="width: 25%;">
-                        Afeta
-                    </th>
-                    <td>
-                        Entidade/Diretoria/Funcionários
-                    </td>
-                </tr>
-                <tr>
-                    <th style="width: 25%;">
-                        Impacto
-                    </th>
-                    <td>
-                        Dificuldade em atender as exigências da LGPD pela ausência de segmentação no controle de acesso.
-                    </td>
-                </tr>
-                <tr>
-                    <th style="width: 25%;">
-                        Solução
-                    </th>
-                    <td>
-                        Virtualização dos dados e restrição de acesso às informações através de do sistema via autenticação e autorização dos usuários.
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </p>
-</details>
+<ul>
+    <li>Layout</li>
+    <li>Flexbox</li>
+    <li>Grid</li>
+    <li>Responsivdade</li>
+    <li>Animations e Transitions</li>
+    <li>Pseudo-classes e Pseudo-elements</li>
+    <li>Forms</li>
+    <li>Media Queries</li>
+    <li>Cores e Estilos</li>
+    <li>Layout Responsivo</li>
+</ul>

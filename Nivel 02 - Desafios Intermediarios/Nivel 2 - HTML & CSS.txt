@@ -62,7 +62,7 @@ ________________________________________________________________________________
 	5) Estilize um formulário para ter um layout adequado em telas menores usando media queries.
 
 __________________________________________________________________________________________________________________________
-9. Desafios Intermediários de Cores e Estilos Avançados:
+9. Desafios Intermediários de Cores e Estilos:
 	1) Crie um esquema de cores para o site usando variáveis CSS.
 	2) Faça um botão ter um gradiente de cores suave ao passar o mouse.
 	3) Estilize um elemento para ter um efeito de sombra em forma de borda usando CSS.
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 	5) Crie um layout de página com uma seção de fundo degradê e texto em camadas.
 
 __________________________________________________________________________________________________________________________
-10. Desafios Intermediários de Layout Responsivo Avançado:
+10. Desafios Intermediários de Layout Responsivo:
 	1) Faça um menu de navegação que se transforma em um menu dropdown em telas menores.
 	2) Estilize um carrossel de imagens para se adaptar ao tamanho da tela em dispositivos móveis.
 	3) Crie um layout de blog responsivo com posts em forma de cards que se ajustam ao tamanho da tela.

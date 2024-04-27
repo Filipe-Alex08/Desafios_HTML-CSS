@@ -4,7 +4,7 @@
 
 <h2 align="center">Histórico de revisão</h2>
 
-<p>Os desafios voltados para HTML & CSS estão separados em 5 niveis e a cada nivel, a dificuldade da execução ficará mais dificil</p>
+<p>Os desafios voltados para HTML & CSS estão separados em 5 niveis e a cada nivel, a dificuldade da execução ficará mais dificil conforme o aumento de nivel</p>
 
 <table>
     <thead>
